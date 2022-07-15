@@ -33,7 +33,7 @@
   他们的作用就是为丑陋涂脂抹粉，为粪坑喷洒芳香剂！
 ```
 
-# 总数：【265+】
+# 总数：【264+】
 
 
 ![基于城市级别的烂尾楼可视化](https://mark-vue-oss.oss-cn-hangzhou.aliyuncs.com/images/20220715/b29d5f8d10b5427cb3b87b613bd8f08e.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_100/format,jpg)
@@ -98,6 +98,7 @@ Notion数据库：https://www.notion.so/21dab14200e2478eb91c49b68d16495f
 - **衡阳市（1）：** 华源北街
 - **永州市（1）：** 舜德湘江
 - **浏阳市（1）：** 恒大华府四期
+- **郴州市（1）：** 鲲鹏国际商贸城（7月）
 
 ## 辽宁省 [ 5 ]
 - **沈阳市（4）：** 恒大西江天悦，恒大中央广场，恒大时代新城，金科集美东方   
